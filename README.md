@@ -1,1 +1,5 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Verdana&weight=300&size=24&pause=10000&color=F700B8&random=false&width=435&lines=Hi+There%2C+My+Name+Is+Rizky+Perdana+I+am+16+YO)](https://git.io/typing-svg)
+<h1 align="center">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hi+i'm+Rizky+Perdana.+I'm+16+YO;">
+  </a>
+</h1>
